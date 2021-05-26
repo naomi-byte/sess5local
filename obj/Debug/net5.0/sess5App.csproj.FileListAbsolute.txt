@@ -1,0 +1,16 @@
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.csprojAssemblyReference.cache
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.AssemblyInfoInputs.cache
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.AssemblyInfo.cs
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.csproj.CoreCompileInputs.cache
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.exe
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.deps.json
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.runtimeconfig.json
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.runtimeconfig.dev.json
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.dll
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\ref\sess5App.dll
+C:\Users\nilla\Documents\GitHub\sess5local\bin\Debug\net5.0\sess5App.pdb
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.dll
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\ref\sess5App.dll
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.pdb
+C:\Users\nilla\Documents\GitHub\sess5local\obj\Debug\net5.0\sess5App.genruntimeconfig.cache
